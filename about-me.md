@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About me
+permalink: /about-me/
 ---
+{% seo %}
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Fredrik Langå and I study at LNU in Kalmar, Sweden. I'm currently studying the first year of 
+the *Web Programming*-course.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
