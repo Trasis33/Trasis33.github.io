@@ -1,0 +1,20 @@
+
+/* TEAM */
+
+Your title: Fredrik Langå
+
+Site: localhost:4000 for now
+
+Twitter: frlanga
+
+Location: Kalmar, Sweden
+
+/* SITE */
+
+Last update: 2018/11/15 
+
+Standards: HTML5, CSS3
+
+Components: jekyll, sass
+
+Software: Visual Studio Code
