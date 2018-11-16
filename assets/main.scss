@@ -1,0 +1,32 @@
+---
+
+---
+
+@import "minima";
+
+$color-grey: rgb(207, 207, 207);
+$color-grey2: rgb(180, 180, 180);
+$header-color: rgb(182, 197, 212);
+$text-color: rgb(235, 243, 255);
+
+$font-stack: helvetica, sans-serif;
+
+header {
+  background: $header-color;
+}
+
+header.post-header {
+  background: inherit;
+}
+
+body {
+  background: $color-grey;
+}
+
+footer {
+  background: $color-grey2;
+}
+
+.footer-col-wrapper {
+  color: $text-color
+}
