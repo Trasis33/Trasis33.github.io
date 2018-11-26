@@ -7,11 +7,13 @@ Site: localhost:4000 for now
 
 Twitter: frlanga
 
+Github: Trasis33
+
 Location: Kalmar, Sweden
 
 /* SITE */
 
-Last update: 2018/11/15 
+Last update: 2018/11/26 
 
 Standards: HTML5, CSS3
 
