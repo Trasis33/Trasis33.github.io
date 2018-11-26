@@ -13,8 +13,8 @@ comments: true
 
 I implemented it by adding meta tags to a copy of `head.html` in my `_includes`-folder with the following:
 ```
-  <meta property="og:title" content="fl222pw's blog" />
+  <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="Trasis33.github.io" />
+  <meta property="og:url" content="{% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}" />
   <meta property="og:image" content="/src/assets/pics/Avatar.png" />
 ```
