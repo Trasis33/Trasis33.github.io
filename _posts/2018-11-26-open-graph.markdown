@@ -15,5 +15,5 @@ I implemented it by adding meta tags to a copy of `head.html` in my `_includes`-
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{% capture url_path %}{{site.url}}{{page.url}}{% endcapture %}" />
-  <meta property="og:image" content="/src/assets/pics/Avatar.png" />
+  <meta property="og:image" content="../assets/pics/Avatar.jpg" />
 ```
