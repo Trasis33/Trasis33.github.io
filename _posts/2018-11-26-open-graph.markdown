@@ -5,7 +5,6 @@ date:   2018-11-26 21:31:14 +0100
 categories: jekyll update
 comments: true
 ---
-{% seo %}
 
 ## What is Open Graph and how do I make use of it?
 

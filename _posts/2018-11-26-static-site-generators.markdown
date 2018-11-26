@@ -5,7 +5,7 @@ date:   2018-11-26 19:58:15 +0100
 categories: jekyll update
 comments: true
 ---
-{% seo %}
+
 ## What do I think of SSG's? What type of projects are they suitable for? 
 
 

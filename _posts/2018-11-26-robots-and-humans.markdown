@@ -5,7 +5,7 @@ date:   2018-11-26 20:19:43 +0100
 categories: jekyll update
 comments: true
 ---
-{% seo %}
+
 ## What is robots.txt and how have I configured it for my site?
 
 *robots.txt* is a file with instructions for search engines and bots telling them what I would like for them to access or not to access on my site. It's not a safeguard, it just kindly asks them to respect what is written in the robots.txt. If they are malicious it does nothing to stop them from reading all of the files.

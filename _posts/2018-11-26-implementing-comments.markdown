@@ -5,7 +5,6 @@ date:   2018-11-26 21:12:43 +0100
 categories: jekyll update
 comments: true
 ---
-{% seo %}
 
 ## How I have implemented comments to my blog posts
 
