@@ -11,20 +11,28 @@ $text-color: rgb(235, 243, 255);
 
 $font-stack: helvetica, sans-serif;
 
+@font-face {
+  font-family: "Manrope";
+  src: url("./fonts/medium.otf")
+}
+
 header {
-  background: $header-color;
+  background: $header-color
+}
+header.site-header {
+  padding-bottom: 50px
 }
 
 header.post-header {
-  background: inherit;
+  background: inherit
 }
 
 body {
-  background: $color-grey;
+  background: $color-grey
 }
 
 footer {
-  background: $color-grey2;
+  background: $color-grey2
 }
 
 .footer-col-wrapper {
